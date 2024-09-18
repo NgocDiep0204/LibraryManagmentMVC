@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\controllers\\sachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\controllers\\sachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\models\\qltvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\models\\qltvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|d:\\workspace\\.net\\asp_mvc\\qlthuvien\\qlthuvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A6D6E1D-EE7F-4912-8D1F-72DA9DB93959}|QLTHUVIEN\\QLTHUVIEN.csproj|solutionrelative:qlthuvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\appsettings.json",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\appsettings.json",
+              "RelativeToolTip": "QLTHUVIEN\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T08:25:54.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Program.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Program.cs",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Program.cs",
+              "RelativeToolTip": "QLTHUVIEN\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:14:48.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\wwwroot\\css\\Style.css",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "QLTHUVIEN\\wwwroot\\css\\Style.css",
+              "ViewState": "AQIAADsxAAAAAAAAAAAowEAxAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-10T08:04:26.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SachesController.cs",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Controllers\\SachesController.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Controllers\\SachesController.cs",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Controllers\\SachesController.cs",
+              "RelativeToolTip": "QLTHUVIEN\\Controllers\\SachesController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAiwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:41:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "QLTHUVIEN\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAIBJwA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T08:00:01.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "QLTHUVIEN\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:58:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QltvContext.cs",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Models\\QltvContext.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Models\\QltvContext.cs",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Models\\QltvContext.cs",
+              "RelativeToolTip": "QLTHUVIEN\\Models\\QltvContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:27:38.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "QLTHUVIEN\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T08:01:58.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLTHUVIEN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:41:42.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLTHUVIEN\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Workspace\\.net\\asp_mvc\\QLTHUVIEN\\QLTHUVIEN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLTHUVIEN\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:48:04.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
